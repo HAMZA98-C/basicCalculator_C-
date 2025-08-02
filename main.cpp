@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     double num1, num2;
     char operation;
-
+//Basic Calculator
     cout << "Basic Calculator in C++" << endl;
     cout << "Enter first number: ";
     cin >> num1;
@@ -37,3 +37,4 @@ int main() {
 
     return 0;
 }
+
